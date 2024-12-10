@@ -1,7 +1,0 @@
-C:\Users\Owner\source\repos\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.csproj.AssemblyReference.cache
-C:\Users\Owner\source\repos\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.csproj.CoreCompileInputs.cache
-C:\Users\Owner\source\repos\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.exe.config
-C:\Users\Owner\source\repos\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.exe
-C:\Users\Owner\source\repos\GuessMyNumber\GuessMyNumber\bin\Debug\GuessMyNumber.pdb
-C:\Users\Owner\source\repos\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.exe
-C:\Users\Owner\source\repos\GuessMyNumber\GuessMyNumber\obj\Debug\GuessMyNumber.pdb
